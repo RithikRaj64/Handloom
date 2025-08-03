@@ -1,47 +1,8 @@
 {
-  "kurta": [
-    "cotton",
-    "khadi",
-    "cream",
-    "short sleeves",
-    "tamil",
-    "minimal",
-    "casual"
-  ],
-  "accessory": [
-    "silver",
-    "rudraksha",
-    "jute bag",
-    "wooden bangles",
-    "minimal",
-    "festive"
-  ],
-  "blouse": [
-    "round neck",
-    "minimal embroidery",
-    "cotton",
-    "yellow",
-    "white"
-  ],
-  "dhoti": [
-    "cotton",
-    "cream",
-    "gold border",
-    "veshti",
-    "tamil",
-    "traditional"
-  ],
-  "shawl": [
-    "cotton",
-    "red border",
-    "simple",
-    "temple use"
-  ],
   "saree": [
     "gold",
-    "traditional",
-    "red",
     "handloom",
-    "silk"
+    "traditional",
+    "red"
   ]
 }
